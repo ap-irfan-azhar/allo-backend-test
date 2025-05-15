@@ -21,3 +21,6 @@ Model/Entity yang sudah disiapkan:
 - Kode yang rapi dan mudah dimengerti
 - Nilai tambah jika ditambahkan unit test
 
+
+### [Swagger UI](http://127.0.0.1:8080/swagger-ui/index.html)
+
